@@ -5,7 +5,8 @@ public class ListMaker {
 
     private static ArrayList<String> list = new ArrayList<>();
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Scanner in = new Scanner(System.in);
         boolean done = false;
 
